@@ -1,4 +1,4 @@
-# API client for 24SevenOffice
+ # API client for 24SevenOffice
 There following services are available:
 - PersonService
 - CompanyService
